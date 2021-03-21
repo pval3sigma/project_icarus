@@ -1,0 +1,1 @@
+TRAINING_DATA_PATH = str('Resources/bitcoin_binance_data.csv')
